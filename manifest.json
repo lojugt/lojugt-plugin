@@ -1,0 +1,10 @@
+{
+  "id": "loju",
+  "name": "Loju",
+  "version": "1.0.3",
+  "minAppVersion": "0.15.0",
+  "description": "Publishes frontmatter publish:true notes directly to Loju.",
+  "author": "Loju",
+  "authorUrl": "https://github.com/lojugt",
+  "isDesktopOnly": false
+}
